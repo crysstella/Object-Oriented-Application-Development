@@ -1,2 +1,2 @@
 # Object-Oriented-Application-Development
-This includes all projects from Object-Oriented-Application-Development course in California State University Long Beach.
+This includes all projects from the Object-Oriented-Application-Development course at California State University Long Beach.
